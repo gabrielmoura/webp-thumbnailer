@@ -1,0 +1,4 @@
+[Thumbnailer Entry]
+TryExec=/opt/webp-thumbnailer/bin/webp-thumbnailer
+Exec=/opt/webp-thumbnailer/bin/webpthumbnailer %i %o %s
+MimeType=image/webp;
