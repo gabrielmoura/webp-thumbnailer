@@ -1,4 +1,4 @@
 [Thumbnailer Entry]
-TryExec=/opt/webp-thumbnailer/bin/webp-thumbnailer
-Exec=/opt/webp-thumbnailer/bin/webpthumbnailer %i %o %s
+TryExec=/usr/bin/webp-thumbnailer
+Exec=/usr/bin/webp-thumbnailer %i %o %s
 MimeType=image/webp;
